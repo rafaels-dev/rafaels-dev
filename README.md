@@ -2,7 +2,7 @@
 
 ## 🤓 About Me
 
-🙋 I am Rafael Schettino, a **FullCycle Developer**, with a large field of knowledge and more then 18 years of experience.
+🙋 I am Rafael Schettino, a **FullCycle Developer**, with a large field of knowledge and more than 18 years of experience.
 
 ## 🛠️ Skills
 
